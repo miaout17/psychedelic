@@ -6,11 +6,11 @@ Gem::Specification.new do |s|
   s.name        = "psychedelic"
   s.version     = Psychedelic::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
+  s.authors     = ["Mr. Big Cat"]
+  s.email       = ["miaout17 at gmail dot com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = %q{Awesome syntax colorizer in Ruby}
+  s.description = %q{Awesome syntax colorizer in Ruby}
 
   s.rubyforge_project = "psychedelic"
 
