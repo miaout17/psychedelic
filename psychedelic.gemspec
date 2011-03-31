@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Mr. Big Cat"]
   s.email       = ["miaout17 at gmail dot com"]
-  s.homepage    = ""
+  s.homepage    = "http://miaout17.github.com/psychedelic/"
   s.summary     = %q{Awesome syntax colorizer in Ruby}
   s.description = %q{Awesome syntax colorizer in Ruby}
 
