@@ -2,6 +2,8 @@
 
 Psychedelic is an amazing syntax colorizer library that automatically any output in your console. It supports Ruby, Python, Perl, C++, Brainfuck... and any language you know magically.
 
+YOU GOT TO SEE THE COOL SCREENSHOTS ON [PSYCHEDELIC HOME PAGE](http://miaout17.github.com/psychedelic/)!!
+
 ## Installation
 
 Execute in your shell:
