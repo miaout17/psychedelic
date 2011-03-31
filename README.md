@@ -4,6 +4,11 @@ Psychedelic is an amazing syntax colorizer library that automatically any output
 
 YOU GOT TO SEE THE COOL SCREENSHOTS ON [PSYCHEDELIC HOME PAGE](http://miaout17.github.com/psychedelic/)!!
 
+
+## Release Log
+
+* 0.0.2: First release, 2011/04/01</li>
+
 ## Installation
 
 Execute in your shell:
